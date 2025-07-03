@@ -1,0 +1,42 @@
+[
+  {
+    "event_id": "CONF2024_NYC",
+    "amount": 285.5,
+    "currency": "USD",
+    "expense_date": "2024-03-15",
+    "vendor_name": "Marriott Downtown NYC",
+    "description": "Hotel accommodation for conference",
+    "expense_type": "lodging",
+    "document_source": "receipt_hotel_001.pdf"
+  },
+  {
+    "event_id": "CONF2024_NYC",
+    "amount": 67.23,
+    "currency": "USD",
+    "expense_date": "2024-03-16",
+    "vendor_name": "Joe's Pizza",
+    "description": "Team dinner after conference",
+    "expense_type": "meals",
+    "document_source": "receipt_dinner_002.jpg"
+  },
+  {
+    "event_id": "CONF2024_NYC",
+    "amount": 150.0,
+    "currency": "USD",
+    "expense_date": "2024-03-14",
+    "vendor_name": "Yellow Cab Co",
+    "description": "Airport transfer and local transport",
+    "expense_type": "transportation",
+    "document_source": "receipt_taxi_003.pdf"
+  },
+  {
+    "event_id": "WORKSHOP2024_SF",
+    "amount": 425.0,
+    "currency": "USD",
+    "expense_date": "2024-04-20",
+    "vendor_name": "Hilton Garden Inn",
+    "description": "Workshop hotel accommodation",
+    "expense_type": "lodging",
+    "document_source": "receipt_hotel_004.pdf"
+  }
+]
